@@ -1,2 +1,5 @@
 # TSM
-Everything is here like rules, docs, open investigations and more :3
+Touch Soccer Multiverse, here to find the rules and investigations and idk
+
+## Table of Conduct:
+[League Rules](guide/league_rules.md)
